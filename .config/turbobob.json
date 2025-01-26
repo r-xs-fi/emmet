@@ -1,0 +1,12 @@
+{
+	"for_description_of_this_file_see": "https://github.com/function61/turbobob",
+	"version_major": 1,
+	"project_name": "Emmet",
+	"meta": {
+		"description": "Container image for Emmet - the essential toolkit for web-developers.",
+		"website": "https://emmet.io/"
+	},
+	"docker_images": [
+		{ "image": "ghcr.io/r-xs-fi/emmet", "platforms": ["linux/amd64", "linux/arm64", "linux/arm/v7", "linux/riscv64"], "tag_latest": true }
+	]
+}
