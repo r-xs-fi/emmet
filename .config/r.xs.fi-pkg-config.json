@@ -1,0 +1,10 @@
+{
+	"supply_chain_descriptor": "npm-package:emmet-cli",
+	"usage_examples": [
+		{
+			"title": "Expand abbreviation",
+			"example_stdin": "html>head+body>div.content",
+			"example_output": "<html>\n<head></head>\n<body>\n        <div class=\"content\"></div>\n</body>\n</html>"
+		}
+	]
+}
